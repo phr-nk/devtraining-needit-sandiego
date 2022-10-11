@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Fleet Vehicle Management Config">0a43b352d63819100db25335345d81c0</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>NeedIt Record default Vehicle History Tab Reference</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">4d8fe3c047621110450ccc88f36d43dd</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>vehicle-history-tab</route_type>
+        <screen_type display_value="Vehicle History Tab Reference">4c2045f487e19110ff1ffcc4dabb3531</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-10 15:57:47</sys_created_on>
+        <sys_id>d38f670447621110450ccc88f36d439e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Record default Vehicle History Tab Reference</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_d38f670447621110450ccc88f36d439e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-10 15:57:47</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d38f670447621110450ccc88f36d439e"/>
+</record_update>
